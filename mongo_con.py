@@ -10,6 +10,8 @@ d = {
 
 }
 
+
+
 db1 = client['mongotest']
 coll = db1['test1']
 coll.insert_one(d)
