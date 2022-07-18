@@ -7,7 +7,6 @@ d = {
     "name" : "kishor",
     "email" : "kishoraswar22@gmail.com",
     "surname" : "aswar"
-
 }
 
 
